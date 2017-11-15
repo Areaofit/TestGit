@@ -13,3 +13,5 @@ git remote add origin https://github.com/Areaofit/TestGit.git
 git push -u origin master
 
 last modify
+测试 git diff 文件名
+命令的效果
